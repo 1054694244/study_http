@@ -1,0 +1,4 @@
+getUrl: "http://localhost:8080/api/getStudent"
+getUrlWithParams: "http://localhost:8080/api/setStudent"
+postUrlMap: "http://localhost:8080/api/setStudentPost"
+postUrlJson: "http://localhost:8080/api/setStudentJson"
